@@ -5,7 +5,7 @@
 
 ## Final Result
 
-<img alt="Screenshot eindresultaat" src="src/assets/Timeline.mp4"/>
+<img alt="Screenshot eindresultaat" src="src/assets/screenshot.gif"/>
 
 ## Installation
 Once you have cloned the project to your local machine, first install the node_modules
